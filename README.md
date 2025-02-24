@@ -3,4 +3,4 @@
 ./ckpt/ffhq/sto/ema_0.9999_1020000.pt
 
 
-./data/ffhq
+./data/ffhq/data.mdb & lock.mdb
