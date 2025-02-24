@@ -20,7 +20,7 @@ COND=concat
 
 
 if [[ $DATASET_NAME == "ffhq" ]]; then
-  DATA_DIR="/NIK_DBAE/DBAE_Draft/data/ffhq" #"xxx/data/ffhq"
+  DATA_DIR="./data/ffhq" #"xxx/data/ffhq"
   DATASET=ffhq
   IMG_SIZE=128
   NUM_CH=128
